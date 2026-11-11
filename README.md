@@ -445,4 +445,78 @@ sayfalama, dışa aktarma (CSV/JSON), TMDB API ile otomatik film bilgisi ve afi�
 
 ---
 
+## 12. Yapay Zekâ Kullanım Açıklaması
+
+Ödev duyurusunda yapay zekâ kullanımı serbest bırakıldığı için bu bölümde
+kullanım şeffaf biçimde açıklanmıştır.
+
+### Kullanılan yapay zekâ araçları
+
+- **OpenCode** (kodlama ajanı) — dosya oluşturma, düzenleme ve test
+- **Claude / Büyük Dil Modeli** — kod üretimi ve açıklama desteği
+
+### Kullanım amaçları
+
+- PHP veri katmanı ve CRUD fonksiyonlarının oluşturulması
+- Form doğrulama ve CSRF korumasının eklenmesi
+- Giriş ekranı, oturum koruması ve şifre doğrulamanın eklenmesi
+- Arayüz tasarımının (CSS) ve mobil uyumun geliştirilmesi
+- Sıcak açık tema ve tema uyumlu efektlerin hazırlanması
+- JavaScript etkileşimlerinin (canlı önizleme, modal, filtre) yazılması
+- Hata ayıklama ve kod düzeni önerileri
+- README ve test senaryolarının hazırlanması
+
+### Kullanılan örnek istem (prompt)
+
+> "Bu kod bloklarını yani CSS, ekle.php, index.php gibi dosyaları değiştir ve
+> bana çok gelişmiş, profesyonel bir web sitesi oluştur. Kodları Visual Studio
+> Code'da yazacaksın. Sana gönderdiğim PDF'te yazan şeyleri kullanmayı ve
+> onların haricinde web sayfasını geliştirmeyi unutma."
+
+### Öğrencinin kendi katkıları
+
+- Proje konusunun (film/dizi arşivi) ve **CHNStream** markasının belirlenmesi
+- Başlangıçtaki `index.php`, `ekle.php`, `functions.php` ve `style.css` dosyalarının hazırlanması
+- Örnek film verilerinin ve kategori yapısının belirlenmesi
+- Uygulamanın XAMPP üzerinde çalıştırılması ve test edilmesi
+- Hata senaryolarının (boş form, geçersiz yıl, XSS denemesi) denenmesi
+- Tasarım ve içerik tercihlerinin yönlendirilmesi
+
+> **Sorumluluk notu:** Teslim edilen kodun tamamı öğrenci tarafından
+> açıklanabilmelidir. Öğrenci; `foreach`, `if`, `$_SESSION`, `$_POST`, `$_GET`,
+> `htmlspecialchars()`, CSRF ve doğrulama mantığını sözlü olarak açıklamaya hazırdır.
+
+---
+
+## 13. Teslim Kontrol Listesi
+
+- [x] Kaynak dosyalar hazır (`index.php`, `ekle.php`, `sil.php`, `functions.php` …)
+- [x] En az 5 örnek kayıt var (50 kayıt)
+- [x] PHP ile listeleme çalışıyor (`foreach`)
+- [x] Yeni kayıt ekleme (POST) çalışıyor
+- [x] Boş / hatalı veri kontrolü var (IMDb ve konu dahil)
+- [x] Kayıt silme (POST) çalışıyor
+- [x] Kategori ve durum filtreleme çalışıyor
+- [x] Toplam ve durum sayaçları çalışıyor
+- [x] `htmlspecialchars()` ile güvenli çıktı var
+- [x] En az iki kullanıcı tanımlı fonksiyon var (25+)
+- [x] `$_SESSION` ile kalıcılık var
+- [x] Mobil uyumlu arayüz var
+- [x] Koyu / açık tema geçişi ve tema kalıcılığı çalışıyor
+- [x] Sıcak parşömen/bej açık tema ve tema uyumlu parlama efektleri var
+- [x] Giriş ekranı ve oturum koruması çalışıyor (`admin` / `sinema123`)
+- [x] Şifre `password_hash()` + `password_verify()` ile doğrulanıyor
+- [x] Çıkış (POST + CSRF) çalışıyor ve veriler korunuyor
+- [x] Rastgele film keşif kısayolu çalışıyor
+- [x] Yıldızlı puanlama (POST + CSRF) çalışıyor
+- [x] Yorum ekleme ve topluluk puanı çalışıyor
+- [x] İzleme geçmişine göre öneri motoru çalışıyor
+- [x] Her filmde konu ve IMDb puanı gösteriliyor
+- [x] Yeni eklenen filmler tüm özelliklere otomatik dahil oluyor
+- [x] README hazır
+- [x] Ekran görüntüleri hazır (`ekran-goruntuleri/`, 7 adet)
+- [ ] Proje `OgrenciNo_Ad_Soyad_PHP_Proje.zip` olarak Teams'e yüklenecek
+
+---
+
 **Son teslim:** 8 Kasım 2026, 23.59 — Microsoft Teams
