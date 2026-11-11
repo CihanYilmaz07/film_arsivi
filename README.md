@@ -518,5 +518,6 @@ kullanım şeffaf biçimde açıklanmıştır.
 - [ ] Proje `OgrenciNo_Ad_Soyad_PHP_Proje.zip` olarak Teams'e yüklenecek
 
 ---
-
+Öğrenci Adı : Cihan Yılmaz
+Öğrenci No : 254309003
 **Son teslim:** 8 Kasım 2026, 23.59 — Microsoft Teams
