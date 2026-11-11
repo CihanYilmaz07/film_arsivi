@@ -1,0 +1,18 @@
+{
+  "name": "CHNStream — Kişisel Sinema Arşivi",
+  "short_name": "CHNStream",
+  "description": "Film ve dizi arşivini kaydet, puanla, filtrele ve izleme yolculuğunu takip et.",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#f3ece1",
+  "theme_color": "#b42318",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
