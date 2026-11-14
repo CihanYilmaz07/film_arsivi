@@ -518,7 +518,7 @@ kullanım şeffaf biçimde açıklanmıştır.
 - [ ] Proje `OgrenciNo_Ad_Soyad_PHP_Proje.zip` olarak Teams'e yüklenecek
 
 ---
-###Ekran Görüntüleri
+**Ekran Görüntüleri**
 <img width="1462" height="698" alt="Ekran görüntüsü 2026-11-15 012336" src="https://github.com/user-attachments/assets/34c73c73-578d-47e2-9efb-935ffeb106f4" />
 <img width="1472" height="696" alt="Ekran görüntüsü 2026-11-15 012508" src="https://github.com/user-attachments/assets/5dbac2a5-b8f9-430f-84a3-f5e63abde735" />
 <img width="1482" height="697" alt="Ekran görüntüsü 2026-11-15 012532" src="https://github.com/user-attachments/assets/89299d00-abe7-4c76-9af2-397805d3e49d" />
