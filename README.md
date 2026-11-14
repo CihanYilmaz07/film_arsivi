@@ -517,6 +517,10 @@ kullanım şeffaf biçimde açıklanmıştır.
 - [x] Ekran görüntüleri hazır (`ekran-goruntuleri/`, 7 adet)
 - [ ] Proje `OgrenciNo_Ad_Soyad_PHP_Proje.zip` olarak Teams'e yüklenecek
 
+--Ekran Görüntüleri--
+<img width="1462" height="698" alt="Ekran görüntüsü 2026-11-15 012336" src="https://github.com/user-attachments/assets/34c73c73-578d-47e2-9efb-935ffeb106f4" />
+
+
 ---
 **Öğrenci Adı:** Cihan Yılmaz
 **Öğrenci No:** 254309003
