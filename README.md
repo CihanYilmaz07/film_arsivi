@@ -526,6 +526,8 @@ kullanım şeffaf biçimde açıklanmıştır.
 <img width="1458" height="680" alt="Ekran görüntüsü 2026-11-15 012410" src="https://github.com/user-attachments/assets/05362b9a-a8ac-440e-9054-53336df787ea" />
 
 
+
+
 ---
 **Öğrenci Adı:** Cihan Yılmaz
 **Öğrenci No:** 254309003
